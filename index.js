@@ -27,4 +27,3 @@ function makeInt(n) {
   if n === String
   parseInt('n', 10)
 }
-

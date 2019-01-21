@@ -24,9 +24,10 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  
+  if n === String
+  parseInt('n', 10)
 }
 
 function preserveDecimal(n) {
-  
+  parseFloat('n')
 }

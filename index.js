@@ -24,6 +24,6 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  if n === string {
+  if n === string
   return parseInt('n', 10)
-}}
+}
